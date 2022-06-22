@@ -16,4 +16,6 @@ I love learning new things! I try to keep up with all the new tech through YouTu
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rysonw)](https://github.com/rysonw/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rysonw)](https://github.com/rysonw/github-readme-stats)
+
 

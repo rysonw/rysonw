@@ -1,6 +1,6 @@
 ### Hi there! My name is Ryson Wong!
 
-<iframe src="https://giphy.com/embed/gSJ5Q7Uh8Fi4E" width="480" height="285" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/disney-wave-gSJ5Q7Uh8Fi4E">via GIPHY</a></p>
+<gif src="https://giphy.com/embed/gSJ5Q7Uh8Fi4E" width="480" height="285" frameBorder="0" class="giphy-embed" allowFullScreen></gif>
 
 ---
 

@@ -8,7 +8,7 @@ A Hawaii Air National Guardsman with a passion for software development! I am a 
 
 I love learning new things! I try to keep up with all the new tech through YouTube and books.
 
-Currently looking for SWE Intership opportunities! Let's Connect!
+Currently looking for SWE Internship opportunities! Let's Connect!
 
 ---
 

@@ -6,6 +6,8 @@
 
 A Hawaii Air National Guardsman with a passion for software development! I am a rising sophmore at Oregon State University.
 
+I am a current candidate in the prestigous Microsoft Software and Systems Academy Program where I am building software around C# and the .NET Framework.
+
 I love learning new things! I try to keep up with all the new tech through YouTube and books.
 
 Currently looking for SWE Internship opportunities! Let's Connect!

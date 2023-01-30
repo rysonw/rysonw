@@ -10,7 +10,7 @@ I am a current candidate in the prestigous Microsoft Software and Systems Academ
 
 I love learning new things! I try to keep up with all the new tech through YouTube and books.
 
-Currently looking for SWE Internship opportunities! Let's Connect!
+Currently looking for Winter 2023 SWE Internship opportunities! Let's Connect!
 
 ---
 

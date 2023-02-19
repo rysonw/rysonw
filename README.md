@@ -4,7 +4,7 @@
 
 ---
 
-A Hawaii Air National Guardsman, rising sophmore at Oregon State University and recent graduate from the prestigous Microsoft Software and Systems Academy Program.
+Hawaii Air National Guardsman, rising sophmore at Oregon State University and recent graduate from the prestigous Microsoft Software and Systems Academy Program.
 
 I am currently working with Northrop Grumman as a SWE intern with a focus on low-level-software in C++ and Linux.
 

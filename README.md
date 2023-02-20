@@ -8,9 +8,7 @@ Hawaii Air National Guardsman, rising sophmore at Oregon State University and re
 
 I am currently working with Northrop Grumman as a SWE intern with a focus on low-level-software in C++ and Linux.
 
-I love learning new things! I try to keep up with all the new tech through YouTube and books.
-
-Currently looking for Winter 2023 SWE Internship opportunities! Let's Connect!
+I love learning new things! Currently looking for Winter 2023 SWE Internship opportunities! Let's Connect!
 
 ---
 

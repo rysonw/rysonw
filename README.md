@@ -7,7 +7,7 @@
 Hawaii Air National Guardsman, rising sophmore at Oregon State University and recent graduate from the prestigous Microsoft Software and Systems Academy Program.
 
 I am currently working with Northrop Grumman as a SWE intern with a focus on low-level-software in C++ and Linux.
-I am also an incoming SDE summer intern at Amazon whre I will be working on AWS internal tools and more!
+I am also an incoming SDE intern at Amazon where I will be working on AWS internal tools and more!
 
 I love learning new things! Let's Connect!
 

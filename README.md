@@ -6,8 +6,7 @@
 
 Hawaii Air National Guardsman, rising sophmore at Oregon State University and recent graduate from the prestigous Microsoft Software and Systems Academy Program.
 
-I am currently working with **Northrop Grumman** as a SWE Intern with a focus on low-level-software in C++ and Linux.
-I am also an incoming SDE Intern at **Amazon** where I will be working on AWS internal tools and more!
+I am a current SDE Intern at **Amazon** where I am working with the EC2 Load Balancing Team! I am currently spearheading the development of a critical internal tool that will improve the reliability of AWS Application Load Balancers for millions of users.
 
 I love learning new things! Let's Connect!
 

@@ -6,7 +6,7 @@
 
 Hawaii Air National Guardsman, rising sophmore at Oregon State University and recent graduate from the prestigous Microsoft Software and Systems Academy Program.
 
-I am a current SDE Intern at **Amazon** where I am working with the EC2 Load Balancing Team! I am currently spearheading the development of a critical internal tool that will improve the reliability of AWS Application Load Balancers for millions of users.
+I am a current SDE Intern at **Amazon** where I am working with the EC2 Load Balancing Team! I am currently spearheading the development of a critical internal tool that will improve the reliability of AWS Application Load Balancers for millions of users. I am also an incoming Fall SWE Intern at **NASA JPL** where I will be joining the Aerospace Sector. 
 
 I love learning new things! Let's Connect!
 

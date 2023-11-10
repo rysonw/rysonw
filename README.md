@@ -4,9 +4,9 @@
 
 ---
 
-Hawaii Air National Guardsman and rising sophmore at Oregon State University.
+Hawaii Air National Guardsman and rising sophomore at Oregon State University.
 
-I am a current SDE Intern at **NASA JPL** where I am working with the IT Special Programs Directorate! I am currently taking on multiple projects in a variety of different fields to help smoothen operations across the laboratory.
+I am a current SDE Intern at **NASA JPL** and an incoming SWE Intern at **Microsoft**! I am currently taking on multiple projects in a variety of different fields to help smoothen operations across the laboratory.
 
 I love learning new things! Let's Connect!
 

@@ -6,7 +6,7 @@
 
 Hawaii Air National Guardsman and rising sophomore at Oregon State University.
 
-I am a current SDE Intern at **NASA JPL** and an incoming SWE Intern at **Microsoft**! I am currently taking on multiple projects in a variety of different fields to help smoothen operations across the laboratory.
+I am an incoming SWE Intern at **Microsoft** where I will be working on their Azure Networking team. I have previously interned for Amazon, NASA, and Northrop Grumman with a focus on backend development (with some embedded as well).
 
 I love learning new things! Let's Connect!
 

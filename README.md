@@ -6,7 +6,7 @@
 
 Hawaii Air National Guardsman and rising sophomore at Oregon State University.
 
-I am an incoming SWE Intern at **Microsoft** where I will be working on their Azure Networking team. I have previously interned for Amazon, NASA, and Northrop Grumman with a focus on backend development (with some embedded as well).
+I am a SWE Intern at **Microsoft** where I am currently working on the AEP CloudSprout Team. I am currentlydeveloping multiple auto-egressing workflows to help versioning withing multiple orgs within Azure. I have previously interned for Amazon, NASA, and Northrop Grumman with a focus on backend development (with some embedded as well).
 
 I love learning new things! Let's Connect!
 

@@ -4,9 +4,9 @@
 
 ---
 
-Hawaii Air National Guardsman and rising sophomore at Oregon State University.
+Veteran (Hawaii ANG) and rising junior at Oregon State University.
 
-I am a SWE Intern at **Microsoft** where I am currently working on the AEP CloudSprout Team. I am developing multiple auto-egressing workflows to help versioning withing multiple orgs within Azure. I have previously interned for Amazon, NASA, and Northrop Grumman with a focus on backend development (with some embedded as well).
+I have previously interned for Microsoft, Amazon, NASA, and Northrop Grumman with a focus on backend and cloud development (with some embedded as well). I am currently looking for one last internship for my senior year. Please feel free to reach out!
 
 I love learning new things! Let's Connect!
 

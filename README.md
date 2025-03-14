@@ -4,7 +4,7 @@
 
 ---
 
-Veteran (Hawaii ANG) and rising junior at Western Governers University.
+Veteran (Hawaii ANG) and senior at Western Governors University.
 
 I have previously interned for Microsoft, Amazon, NASA, and Northrop Grumman with a focus on backend and cloud development (with some embedded as well). I am currently looking for new grad roles. Please feel free to reach out!
 

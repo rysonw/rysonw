@@ -4,9 +4,9 @@
 
 ---
 
-Veteran (Hawaii ANG) and rising junior at Oregon State University.
+Veteran (Hawaii ANG) and rising junior at Western Governers University.
 
-I have previously interned for Microsoft, Amazon, NASA, and Northrop Grumman with a focus on backend and cloud development (with some embedded as well). I am currently looking for one last internship for my senior year. Please feel free to reach out!
+I have previously interned for Microsoft, Amazon, NASA, and Northrop Grumman with a focus on backend and cloud development (with some embedded as well). I am currently looking for new grad roles. Please feel free to reach out!
 
 I love learning new things! Let's Connect!
 

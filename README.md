@@ -4,9 +4,9 @@
 
 ---
 
-Veteran (Hawaii ANG) and senior at Western Governors University.
+Incoming SWE at Microsoft, Veteran (Hawaii ANG) and senior at Western Governors University.
 
-I have previously interned for Microsoft, Amazon, NASA, and Northrop Grumman with a focus on backend and cloud development (with some embedded as well). I am currently looking for new grad roles. Please feel free to reach out!
+I have previously interned for Amazon, NASA, and Northrop Grumman with a focus on backend and cloud development (with some embedded as well). I am currently looking for new grad roles. Please feel free to reach out!
 
 I love learning new things! Let's Connect!
 

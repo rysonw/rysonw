@@ -16,10 +16,3 @@ I love learning new things! Let's Connect!
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Linux" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50" height="50"/> 
 
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rysonw&show_icons=true&theme=radical)](https://github.com/rysonw/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rysonw&theme=radical)](https://github.com/rysonw/github-readme-stats)
-
-

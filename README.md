@@ -4,9 +4,9 @@
 
 ---
 
-Incoming SWE at Microsoft, Veteran (Hawaii ANG) and senior at Western Governors University.
+Software Engineer at Microsoft, Veteran (Hawaii ANG), and Computer Science Master's Candidate at Georgia Tech.
 
-I have previously interned for Amazon, NASA, and Northrop Grumman with a focus on backend and cloud development (with some embedded as well). I am currently looking for new grad roles. Please feel free to reach out!
+I have previously interned for Amazon, NASA, and Northrop Grumman with a focus on backend, cloud development and AI/ML.
 
 I love learning new things! Let's Connect!
 
